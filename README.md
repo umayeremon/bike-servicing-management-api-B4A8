@@ -24,7 +24,7 @@ A backend API for managing bike service records, customers, and bikes. Built wit
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/umayeremon/bike-servicing-management-bra8
+   git clone https://github.com/umayeremon/bike-servicing-management-api-B4A8
    cd bike-service-api
    ```
 
